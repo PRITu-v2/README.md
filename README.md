@@ -15,7 +15,7 @@ I make random stuff using random codes!
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="30px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="node.js" width="30px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" /> 
+<img align="left" alt="python" width="30px" src="https://cdn.discordapp.com/attachments/866965353959653396/869093713404645406/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.png" /> 
 <br>
 
 ### Here are some ideas to get you started:
