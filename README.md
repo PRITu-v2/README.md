@@ -50,11 +50,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Simple Clock using Python | 20 Lines Of Code | Easy & Beautiful](https://www.youtube.com/watch?v=DFJW4WqCPCc)
 - [#6 Connecting Bot To Database - MongoDB | discord.js tutorials](https://www.youtube.com/watch?v=fVIs1s0gzG4)
 - [24/7 Discord Bot Hosting Without leaking  Token | No Downtime | 100% Free](https://www.youtube.com/watch?v=LUzisG96WYU)
 - [Set 'About Me' For Your Discord Bot.](https://www.youtube.com/watch?v=JcJj3cyIDp8)
 - [24/7 Radio Music Bot discord.js | With Source Code](https://www.youtube.com/watch?v=NDVQMwqrBM8)
-- [#5 Setting up v13 command handler | discord.js v13 tutorials](https://www.youtube.com/watch?v=Ek_tUityo4U)
 <!-- YOUTUBE:END -->
 
 
