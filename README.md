@@ -11,11 +11,11 @@ I make random stuff using random codes!
   
 ### Languages and Tools: 
 
-<img align="left" alt="Visual Studio Code" width="31px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="31px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="31px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="node.js" width="35px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="python" width="35px" src="https://cdn.discordapp.com/attachments/866965353959653396/869093713404645406/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.png" /> 
+<code><img align="left" alt="Visual Studio Code" width="31px" src="https://i.imgur.com/LwSdAlE.png" /></code>
+<code><img align="left" alt="discord.js" width="31px" src="https://i.imgur.com/SI1DZf3.png" /></code>
+<code><img align="left" alt="js" width="31px" src="https://i.imgur.com/3u1wzwE.png" /></code>
+<code><img align="left" alt="node.js" width="35px" src="https://i.imgur.com/tYLFZBh.png" /> </code>
+<code><img align="left" alt="python" width="35px" src="https://cdn.discordapp.com/attachments/866965353959653396/869093713404645406/59523230-55488280-8f03-11e9-9abe-e8e0f3d9a245.png" /> </code>
 <br>
 
 ### Here are some ideas to get you started:
