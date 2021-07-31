@@ -51,11 +51,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to play Music Using Jarvis |Jarvis Python AI projects | Python projects Iron man Jarvis](https://www.youtube.com/watch?v=QMLKfA88uDQ)
 - [how to make Jarvis in python | Jarvis Python AI projects | Python projects Iron man Jarvis](https://www.youtube.com/watch?v=QY2OABBGfC0)
 - [Simple Clock using Python | 20 Lines Of Code | Easy & Beautiful](https://www.youtube.com/watch?v=DFJW4WqCPCc)
 - [#6 Connecting Bot To Database - MongoDB | discord.js tutorials](https://www.youtube.com/watch?v=fVIs1s0gzG4)
 - [24/7 Discord Bot Hosting Without leaking  Token | No Downtime | 100% Free](https://www.youtube.com/watch?v=LUzisG96WYU)
-- [Set 'About Me' For Your Discord Bot.](https://www.youtube.com/watch?v=JcJj3cyIDp8)
 <!-- YOUTUBE:END -->
 
 
