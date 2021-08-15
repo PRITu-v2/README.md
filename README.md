@@ -29,10 +29,6 @@ I make random stuff using random codes!
 - 💎 Projects maintained by me: [Jarvis An AI](https://github.com/pritudev/Jarvis), [Zak Bot](https://github.com/pritudev/zakbot).
 - 📦 My biggest project so far: [Jarvis An AI](https://github.com/pritudev/Jarvis).
 <br>
-<br>
-<br>
-<img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
-
 
 <details>
 <summary style="font-size: 30px;">Stats</summary>
