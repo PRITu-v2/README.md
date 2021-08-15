@@ -47,11 +47,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Draw Virus Using Turtle In Python | #python](https://www.youtube.com/watch?v=aM8MdHzWyPQ)
 - [Amazing Live Clock Using HTML/CSS/JS | Easy & Beautiful.](https://www.youtube.com/watch?v=bp_Leru2L9w)
 - [Beautiful Shape Divider Using HTML/CSS | No Images](https://www.youtube.com/watch?v=IRs9Lzetob8)
 - [Normal & Disabled Buttons Using CSS/HTML](https://www.youtube.com/watch?v=uMSOJJ1Q37s)
 - [Simple Clock using Python | 20 Lines Of Code | Easy & Beautiful](https://www.youtube.com/watch?v=DFJW4WqCPCc)
-- [#6 Connecting Bot To Database - MongoDB | discord.js tutorials](https://www.youtube.com/watch?v=fVIs1s0gzG4)
 <!-- YOUTUBE:END -->
 
 
