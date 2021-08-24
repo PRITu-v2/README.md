@@ -47,11 +47,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Pure CSS Only Moon Phase Animation!](https://www.youtube.com/watch?v=h-dD6l8V2k4)
 - [Top 3 CSS & SCSS Effects | 2021](https://www.youtube.com/watch?v=_rbpbeo12DQ)
 - [Create Websites under 1 minute | Python](https://www.youtube.com/watch?v=tZ1bKKYi3i4)
 - [Easiest Way  to print Table in Terminal | JS Tips & Tricks #1 | #Javascript #shorts](https://www.youtube.com/watch?v=X870IUiAqHI)
 - [Create A Game in Python in 2 Minutes.](https://www.youtube.com/watch?v=1uel0vIMyFU)
-- [Every Programming Tutorials in 2021...](https://www.youtube.com/watch?v=K6ykZIVDk0o)
 <!-- YOUTUBE:END -->
 
 
