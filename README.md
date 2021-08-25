@@ -47,11 +47,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Draw Swiggy Logo In Python Using Turtle.](https://www.youtube.com/watch?v=_UWe7y9aYW0)
 - [Draw a Pikachu In Python Using Turtle](https://www.youtube.com/watch?v=5QItvKKfej0)
 - [Pure CSS Only Moon Phase Animation!](https://www.youtube.com/watch?v=h-dD6l8V2k4)
 - [Top 3 CSS & SCSS Effects | 2021](https://www.youtube.com/watch?v=_rbpbeo12DQ)
 - [Create Websites under 1 minute | Python](https://www.youtube.com/watch?v=tZ1bKKYi3i4)
-- [Easiest Way  to print Table in Terminal | JS Tips & Tricks #1 | #Javascript #shorts](https://www.youtube.com/watch?v=X870IUiAqHI)
 <!-- YOUTUBE:END -->
 
 
