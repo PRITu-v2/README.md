@@ -48,11 +48,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [HTML Tutorials - Forms & Input tags | Web development #6](https://www.youtube.com/watch?v=AO-lzKdw3vc)
-- [HTML Tutorials - Lists & Tables In HTML | Web development #5](https://www.youtube.com/watch?v=dh52g2I6OJU)
-- [HTML Tutorials - Anchor Tag, Images & HTML comments | Web development #4](https://www.youtube.com/watch?v=hsGegnlIxZ4)
-- [HTML Tutorials - Headings, Paragraphs & Emmet | Web development #3](https://www.youtube.com/watch?v=lM58nlTj-2g)
-- [HTML Tutorials - Intro to Meta tags, links, Title & Script |  Web development #2](https://www.youtube.com/watch?v=koVz_kPXHqs)
+- [HTML Tutorials - Forms & Input tags | Web Development Course #6](https://www.youtube.com/watch?v=AO-lzKdw3vc)
+- [HTML Tutorials - Lists & Tables In HTML | Web Development Course #5](https://www.youtube.com/watch?v=dh52g2I6OJU)
+- [HTML Tutorials - Anchor Tag, Images & HTML comments | Web Development Course #4](https://www.youtube.com/watch?v=hsGegnlIxZ4)
+- [HTML Tutorials - Headings, Paragraphs & Emmet | Web Development Course #3](https://www.youtube.com/watch?v=lM58nlTj-2g)
+- [HTML Tutorials - Intro to Meta tags, links, Title & Script | Web Development Course #2](https://www.youtube.com/watch?v=koVz_kPXHqs)
 <!-- YOUTUBE:END -->
 
 
