@@ -18,16 +18,17 @@ I make random stuff using random codes!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://expressjs.com/images/express-facebook-share.png"></code>
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Jarvis An AI](https://github.com/pritudev/Jarvis).
+- 🔭 I’m currently working on [Jarvis An AI](https://github.com/pritudev/Jarvis), [My Blog](https://pritudev.me).
 - 🌱 I’m currently learning Everything.
 - 💬 Ask me about JavaScript, Python, HTML & CSS.
 - 📫 How to reach me: [Discord Server](https://discord.gg/DXyczwxQYf).
 - 😄 Pronouns: He / Him.
-- 💎 Projects maintained by me: [Jarvis An AI](https://github.com/pritudev/Jarvis), [Zak Bot](https://github.com/pritudev/zakbot).
-- 📦 My biggest project so far: [Jarvis An AI](https://github.com/pritudev/Jarvis).
+- 💎 Projects maintained by me: [Jarvis An AI](https://github.com/pritudev/Jarvis), [Zak Bot](https://github.com/pritudev/zakbot), [My Blog](https://pritudev.me).
+- 📦 My biggest project so far: [Jarvis An AI](https://github.com/pritudev/Jarvis), [My Blog](https://pritudev.me).
 <br>
 
 <details>
