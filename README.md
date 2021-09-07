@@ -49,11 +49,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Top & Best 3 Ways to Center a DIV using CSS](https://www.youtube.com/watch?v=7VE1G8EcmrQ)
 - [Do You Have Any Experience Coding // Video Upload Preferences // #shorts](https://www.youtube.com/watch?v=0ZYGe8kuID8)
 - [Simple Theme Toggle Dark To Light // Easy Using HTML, CSS, & JS](https://www.youtube.com/watch?v=hTsqeA-7pEo)
 - [HTML Tutorials - Class, Id & Entities | Web Development Course #6](https://www.youtube.com/watch?v=MUDtk6f-bUQ)
 - [Multi-line Underline Text Gradient Animation |  Quick CSS Tips & Tricks](https://www.youtube.com/watch?v=OmM5syEpkQU)
-- [HTML Tutorials - Forms & Input tags | Web Development Course #6](https://www.youtube.com/watch?v=AO-lzKdw3vc)
 <!-- YOUTUBE:END -->
 
 
