@@ -50,10 +50,10 @@ I make random stuff using random codes!
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Top & Best 3 Ways to Center a DIV/Element using CSS](https://www.youtube.com/watch?v=7VE1G8EcmrQ)
-- [Do You Have Any Experience Coding // Video Upload Preferences // #shorts](https://www.youtube.com/watch?v=0ZYGe8kuID8)
 - [Dark Theme / Light Theme Toggle // Theme Toggle Using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=hTsqeA-7pEo)
-- [Multi-line Underline Text Gradient Animation |  Quick CSS Tips & Tricks](https://www.youtube.com/watch?v=OmM5syEpkQU)
-- [Tilt Effect in Button Using Tilt.js](https://www.youtube.com/watch?v=B5DNYGEFwJc)
+- [Multi-line Underline Text Gradient Animation //  Quick CSS Tips & Tricks](https://www.youtube.com/watch?v=OmM5syEpkQU)
+- [Tilt Effect in Button Using Tilt.js // Easiest Way](https://www.youtube.com/watch?v=B5DNYGEFwJc)
+- [Pure CSS Only Moon Phase Animation! // Only CSS](https://www.youtube.com/watch?v=h-dD6l8V2k4)
 <!-- YOUTUBE:END -->
 
 
