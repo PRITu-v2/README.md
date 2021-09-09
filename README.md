@@ -49,11 +49,11 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Add Gradient outline or stroke to text // Easy Created using CSS, HTML](https://www.youtube.com/watch?v=mL51fxPmzNA)
 - [Top & Best 3 Ways to Center a DIV/Element using CSS](https://www.youtube.com/watch?v=7VE1G8EcmrQ)
 - [Dark Theme / Light Theme Toggle // Theme Toggle Using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=hTsqeA-7pEo)
 - [Multi-line Underline Text Gradient Animation //  Quick CSS Tips & Tricks](https://www.youtube.com/watch?v=OmM5syEpkQU)
 - [Tilt Effect in Button Using Tilt.js // Easiest Way](https://www.youtube.com/watch?v=B5DNYGEFwJc)
-- [Pure CSS Only Moon Phase Animation! // Only CSS](https://www.youtube.com/watch?v=h-dD6l8V2k4)
 <!-- YOUTUBE:END -->
 
 
