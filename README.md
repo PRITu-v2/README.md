@@ -49,7 +49,7 @@ I make random stuff using random codes!
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [HTML Full Course For Absolute Beginners // In 1 HOUR // Crash Course](https://www.youtube.com/watch?v=gVD0EVFQdoA)
+- [HTML Full Course For Absolute Beginners 🔥🔥](https://www.youtube.com/watch?v=gVD0EVFQdoA)
 - [Add Gradient outline or stroke to text // Easy Created using CSS, HTML](https://www.youtube.com/watch?v=mL51fxPmzNA)
 - [Top & Best 3 Ways to Center a DIV/Element using CSS](https://www.youtube.com/watch?v=7VE1G8EcmrQ)
 - [Dark Theme / Light Theme Toggle // Theme Toggle Using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=hTsqeA-7pEo)
