@@ -1,8 +1,8 @@
 <h1 align="center"> Hey, I'm pritu 👋</h1>
-
-<h2 align="center">Full Stack Web Developer | YouTuber </h2>
+<h4 align="center">Full Stack Web Developer & YouTuber </h4>
 
 <h3 align="center">Tools & Languages</h3>
+<br>
 
 <p align="center">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -14,19 +14,24 @@
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 <img height="30" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
 <br>
-
+<br>
+  
 Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming a lot. I've created websites, Discord bots, etc. I am a self taught developer and I have been programming for 5 years mostly focusing on design & codes.
+  
+<a href="https://discord.c99.nl/widget/theme-4/741549223127941170.png"><img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png"></a>
+<br>
+  
+<a align="center" href="https://discord.io/prituhq" >
+</a>
+                                                                                        
+</p>
+<br>
 <br>
 
-<img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png" alt="bkr lounge"/>
-
-</p>
-
-<details allign="center">
-
-  <img src="https://komarev.com/ghpvc/?username=pritudev&color=blueviolet">
-  
+<details align="center">
+<img src="https://komarev.com/ghpvc/?username=pritudev&color=blueviolet">
 <br />
+  
 <summary><em>Pritudev's Github States</em></summary>
     
   _(Wakatime stats of all time)_
@@ -41,7 +46,10 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 
 </details>
 
-### 📺 Latest YouTube Videos
+<h3 align="center">📺 Latest YouTube Videos</h3>
+
+<p aling="center">
+  
 <!-- YOUTUBE:START -->
 - [🔥🔥 5 HTML Tags you Didn't Know!](https://www.youtube.com/watch?v=OjtT3mlN1i4)
 - [HTML Full Course For Absolute Beginners 🔥🔥](https://www.youtube.com/watch?v=gVD0EVFQdoA)
@@ -49,6 +57,8 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 - [Top & Best 3 Ways to Center a DIV/Element using CSS](https://www.youtube.com/watch?v=7VE1G8EcmrQ)
 - [Dark Theme / Light Theme Toggle // Theme Toggle Using HTML, CSS, JavaScript](https://www.youtube.com/watch?v=hTsqeA-7pEo)
 <!-- YOUTUBE:END -->
+  
+  </p>
 
 
 
