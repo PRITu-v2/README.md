@@ -43,10 +43,10 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 
 </details>
 
+<p align="center">
 <h3 align="center">📺 Latest YouTube Videos</h3>
 
-<p align="center">
-  
+
 <!-- YOUTUBE:START -->
 - [🔥🔥 5 HTML Tags you Didn't Know!](https://www.youtube.com/watch?v=OjtT3mlN1i4)
 - [HTML Full Course For Absolute Beginners 🔥🔥](https://www.youtube.com/watch?v=gVD0EVFQdoA)
