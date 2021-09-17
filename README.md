@@ -23,7 +23,7 @@ Hello, I am Prit! I am a 16 year old programmer and student. I enjoy programming
 <br>
   
 <p align="center" href="https://discord.io/prituhq" >
- <img src="https://discord.c99.nl/widget/theme-4/741549223127941170.png">
+ <img src="https://discord.c99.nl/widget/theme-1/741549223127941170.png">
 </p>
 
 <a href="https://github.com/pritudev/pritudev.me">
