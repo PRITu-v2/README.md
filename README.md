@@ -16,6 +16,8 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 <img height="30" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png">
+<img height="28" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png">
+<img height="30" src="https://cdn.discordapp.com/attachments/752907972018962433/889781294987374592/csharp_original_logo_icon_146578.png">
 <br>
 <br>
   
